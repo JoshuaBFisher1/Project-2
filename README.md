@@ -21,7 +21,7 @@ Users should be able to stream music seamlessly with minimal buffering or interr
 
 The app should provide user profiles that track listening habits, liked songs, and playlists.
 
-The g App should be responsive and compatible with various devices, including desktop and mobile platforms.
+The App should be responsive and compatible with various devices, including desktop and mobile platforms.
 
 The app should handle errors and edge cases gracefully, providing clear error messages and a smooth user experience.
 

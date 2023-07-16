@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman';
+}
+.bg-image {
+    background-image: url("./../images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    max-height: auto;
+}
+.bg-image .heading{
+    text-align: center;
+    color: #fff;
+    font-weight: 100;
+    font-size: 8rem;
+    text-transform: uppercase;
+}
+.bg-image .para{
+    text-align: center;
+    color: #fff;
+   
+    font-weight: 100;
+    font-size: 2rem;
+    margin-top: -4rem;
+}
+.card-set{
+    width: 73%;
+    margin-left: 5rem;
+    border-radius: 27px !important;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    backdrop-filter: blur(20px);
+    background-color: transparent !important;
+}
+.set{
+    width: 60px !important;
+    padding: 0px;
+}
+.label{
+   padding: 0.2rem 0.5rem;
+   font-size: 1.3rem;
+   color: #fff;
+}
+.input-field{
+    background-color: #737373;
+    padding: 0.5rem;
+    border-radius: 10px;
+    width: 100%;
+    border: none;
+}
+.btn-register{
+    background-color: #2a2827 !important;
+    color: #fff !important;
+    margin-top: 1rem;
+    padding: 1rem 4rem!important;
+    width: 69%;
+    font-size: 1.2rem !important;
+}
+.bring-col{
+    margin-left: -1.5rem;
+}
+.set-height{
+    height: 37vh !important;
+}
+.heading-2{
+    color: #fff;
+    padding: 2rem;
+    font-weight: 100;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.btn-add{
+    position: fixed;
+    padding: 0.1rem 2rem;
+    border-radius: 50px;
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-left:10rem ;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    backdrop-filter: blur(20px);
+    background-color: transparent !important;
+    color: #fff;
+    z-index: 999;
+}
+.bg-image-2{
+    background-color: #000;
+    min-height: 100vh;
+    max-height: auto;
+}
+.footer{
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+}
+.btn-enjoy{
+    
+    padding: 0.1rem 2rem;
+    border-radius: 50px;
+    font-size: 1.7rem;
+    font-weight: bold;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    backdrop-filter: blur(20px);
+    background-color: transparent !important;
+    color: #fff;
+}
+.img-set{
+    width: 17rem;
+    height: 17rem !important;
+}

@@ -1,6 +1,7 @@
-## HarmonyHub App README
+## HarmonyHub App 
 
 The HarmonyHub App is a digital platform that allows users to discover, stream, and organize their favorite music. It offers features such as a vast music library, personalized recommendations, playlist creation, search and discovery,and user profiles.
+
 ## user story
 As a new user of the Harmonyhub App, I want to create an account so that I can access personalized features and enjoy a seamless music streaming experience.
 ## Acceptance criteria

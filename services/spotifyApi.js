@@ -1,5 +1,3 @@
-import fetch from "node-fetch"
-
 const fetchToken = () => {
     const data = fetch("https://accounts.spotify.com/api/token", {
         method: 'POST',

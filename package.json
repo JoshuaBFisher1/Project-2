@@ -9,5 +9,8 @@
     "mysql2": "^3.5.2",
     "node-fetch": "^2.6.12",
     "request": "^2.88.2"
+  },
+  "scripts": {
+    "seed": "node seeds/seed.js"
   }
 }

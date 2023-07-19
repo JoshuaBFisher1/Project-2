@@ -1,17 +1,19 @@
+
 .login-title, .signup-title {
   border: solid 2px black;
-  width: 33%;
+  width: 80%;
   padding: 0 3rem; 
-  border-radius: 3%;
+  border-radius: 5%;
   text-align: center;
+  background-color: rgb(181, 181, 181);
 }
 
 .login-form, .signup-form {
   border: solid 3px black;
-  width: 33%;
+  width: 80%;
   padding: 2rem 3rem;
   border-radius: 5%;
-  background-color: rgb(192, 187, 187);
+  background-color: rgb(180, 178, 178);
   opacity: 0.8;
 }
 
@@ -26,7 +28,7 @@
   /* border: solid 1px black; */
   width: 18%;
   text-align: right;
-  margin-right: 0.25rem;
+  margin-right: 0.50rem;
 }
 
 .form-group button {

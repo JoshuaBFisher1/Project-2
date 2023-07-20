@@ -1,17 +1,25 @@
 <div class="row">
   <div class="col-auto">
-    <h2>Welcome, {{name}}!</h2>
+    <h2 style="color: rgb(212, 133, 74);">Welcome, {{name}}!</h2>
+
   </div>
 </div>
 
-<div class="row mt-4">
-  <div class="col-md-6">
-    <h3>Add new playlist:</h3>
 
     <form class="form new-playlist-form">
       <div class="form-group">
-        <label for="Playlist-name">Playlist Name:</label>
+        <div class="row mt-4">
+        <div class="col-md-6">
+        <h3>Add new playlist:</h3>
+        <label for="playlist-name">Name:</label>
         <input class="form-input" type="text" id="playlist-name" name="playlist-name" />
+              <label for="genre-name">Genre:</label>
+        <input class="form-input" type="text" id="playlist-name" name="playlist-name" />
+              <label for="artist-name">Artist:</label>
+        <input class="form-input" type="text" id="playlist-name" name="playlist-name" />
+        <div class="form-group">
+        <button class="btn btn-primary" type="submit">Add</button>
+      </div>
       </div>
 
     </form>
